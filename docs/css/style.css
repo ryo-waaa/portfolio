@@ -41,7 +41,7 @@ li {
 }
 
 .section:nth-of-type(odd) {
-  background-color: #f7f7f7;
+  background-color: #f1ffff;
 }
 
 .inner {
@@ -125,7 +125,7 @@ li {
   transition: .3s;
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%);
-  background-color: #333;
+  background-color: #98baff;
 }
 
 .header-nav-item a:hover:after {
